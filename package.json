@@ -1,7 +1,7 @@
 {
-  "name": "crrapp",
+  "name": "create-reed-react-app",
   "version": "1.0.0",
-  "description": "crrapp",
+  "description": "create-reed-react-app",
   "main": "index.js",
   "directories": {
     "test": "tests"
